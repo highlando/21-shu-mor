@@ -1,0 +1,7 @@
+theme: jekyll-theme-leap-day
+
+title: SHU Short Course on Model Order Reduction
+description: Schedule, Information, and Material
+
+plugins:
+  - jemoji
