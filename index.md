@@ -2,26 +2,26 @@
 
 | Date | Times | Content |
 | ---- | :-----: | ------- |
-| 14 July, Tuesday    |  13:05-13:50 | 1.1 Introduction to LTI Systems :microphone: |
-|                    |  14:10-14:55 | 1.2 Introduction to LTI Systems :microphone: |
-| 15 July, Wednesday  |  08:00-08:45 | 2.1 Mathematical Basics of LTI Systems I :camera: |
-|                    |  08:55-09:40 | 2.2 Exercise 1 :clipboard: |
-|                    |  10:00-10:45 | 2.3 Solutions to the Exercises :camera: |
-| 16 July, Thursday   |  08:00-08:45 | 3.1 Mathematical Basics of LTI Systems II :camera: |
-|                    |  08:55-09:40 | 3.2 Exercise 2 :clipboard:|
-|                    |  10:00-10:45 | 3.3 Solutions to the Exercise :camera: |
-| 17 July, Friday    |  10:00-10:45 | 4.1 Introduction to MOR 1 :microphone: |
-|                    |  10:55-11:40 | 4.2 Introduction to MOR 2 :microphone: |
-| 21 July, Tuesday   |  13:05-13:50 | 5.1 Projection Based MOR :microphone: |
-|                    |  14:10-14:55 | 6.1 Mathematical Basics of Balanced Truncation :microphone: |
-| 22 July, Wednesday  |  08:00-08:45 | 6.2 Exercise 3 :clipboard: |
-|                     |  :low_brightness: 09:05-09:50 | 6.3 Solutions to Exercise 3 :microphone: |
-|                     |  10:00-10:45 | 7.1 Balanced Truncation 1 :microphone: |
-| 23 July, Thursday  |  08:00-08:45 | 7.2 (Practical) Exercise 4 :clipboard: |
-|                    |  :low_brightness: 09:05-09:50 | 7.3 Solutions to Exercise 4 :microphone: |
-|                    |  10:00-10:45 | 7.4 LQG-Balanced Truncation for incompressible Flows :microphone: |
-| 24 July, Friday    |  10:00-10:45 | 8.1 POD and DMD for Burgers' Equation :microphone: |
-|                    |  10:55-11:40 | 8.2 Summary of the Lecture :microphone: |
+| 21 June |  14:10-14:55 | 1.1 Introduction to LTI Systems :microphone: |
+|         |  15:05-15:50 | 1.2 Introduction to LTI Systems :microphone: |
+| 23 June |  15:05-15:50 | 1.3 Exercise 1 :clipboard: |
+|         |  14:10-14:55 | 1.4 Solutions to the Exercises :camera: |
+| 24 June |  14:10-14:55 | 2.1 Mathematical Basics of LTI Systems I :camera: |
+|         |  15:05-15:50 | 3.1 Mathematical Basics of LTI Systems II :camera: |
+| 25 June |  14:10-14:55 | 3.2 Exercise 2 :clipboard:|
+|         |  15:05-15:50 | 3.3 Solutions to the Exercise :camera: |
+| 26 June |  14:10-14:55 | 4.1 Introduction to MOR 1 :camera: |
+|         |  15:05-15:50 | 4.2 Introduction to MOR 2 :camera: |
+| 28 June |  08:00-08:45 | 5.1 Projection Based MOR :microphone: |
+|         |  08:55-09:40 | 6.1 Mathematical Basics of Balanced Truncation :microphone: |
+| 29 June |  14:10-14:55 | 6.2 Exercise 3 :clipboard: |
+|         |  15:05-15:50 | 6.3 Solutions to Exercise 3 :microphone: |
+| 30 June |  14:10-14:55 | 7.1 Balanced Truncation 1 :camera: |
+|         |  15:05-15:50 | 7.2 (Practical) Exercise 4 :clipboard: |
+| 01 July |  14:10-14:55 | 7.3 Solutions to Exercise 4 :microphone: |
+|         |  15:05-15:50 | 7.4 LQG-Balanced Truncation for incompressible Flows :camera: |
+| 02 July |  08:00-08:45 | 8.1 POD and DMD for Burgers' Equation :microphone: |
+|         |  08:55-09:40 | 8.2 Summary of the Lecture :microphone: |
 
 All times are Beijing time.
 
@@ -33,6 +33,7 @@ All times are Beijing time.
 
 :clipboard: [The script (might get updates in the course of the lecture)](shmorsc.pdf)
 
+<!--
 ## 1 Introduction to LTI Systems
 
 *I will start my short course by introducing the class of Linear Time Invariant
@@ -150,6 +151,7 @@ Finally, we will wrap up the contents of the course.
 * [page with links to the Master programmes in English](https://www.ovgu.de/unimagdeburg/en/Study/Study+Programmes/Study+Programmes+in+English-p-48822.html)
 * [Whiteboard with the notes](blackboards/83-study-abroad.png)
 
+-->
 
 # Little Chinese Dictionary
 
