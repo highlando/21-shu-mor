@@ -4,9 +4,9 @@
 | ---- | :-----: | ------- |
 | 21 June |  14:10-14:55 | 1.1 Introduction to LTI Systems :microphone: |
 |         |  15:05-15:50 | 1.2 Introduction to LTI Systems :microphone: |
-| 23 June |  15:05-15:50 | 1.3 Exercise 1 :clipboard: |
-|         |  14:10-14:55 | 1.4 Solutions to the Exercises :camera: |
-| 24 June |  14:10-14:55 | 2.1 Mathematical Basics of LTI Systems I :camera: |
+| 23 June |  14:10-14:55 | 2.1 Mathematical Basics of LTI Systems I :camera: |
+|         |  15:05-15:50 | 2.2 Exercise 1 :clipboard: |
+| 24 June |  14:10-14:55 | 2.3 Solutions to Exercise 1 :camera: |
 |         |  15:05-15:50 | 3.1 Mathematical Basics of LTI Systems II :camera: |
 | 25 June |  14:10-14:55 | 3.2 Exercise 2 :clipboard:|
 |         |  15:05-15:50 | 3.3 Solutions to the Exercise :camera: |
