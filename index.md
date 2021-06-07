@@ -4,23 +4,23 @@
 | ---- | :-----: | ------- |
 | 21 June |  14:10-14:55 | 1.1 Introduction to LTI Systems :microphone: |
 |         |  15:05-15:50 | 1.2 Introduction to LTI Systems :microphone: |
-| 23 June |  14:10-14:55 | 2.1 Mathematical Basics of LTI Systems I :camera: |
+| 22 June |  14:10-14:55 | 2.1 Mathematical Basics of LTI Systems I :camera: |
 |         |  15:05-15:50 | 2.2 Exercise 1 :clipboard: |
-| 24 June |  14:10-14:55 | 2.3 Solutions to Exercise 1 :camera: |
+| 23 June |  14:10-14:55 | 2.3 Solutions to Exercise 1 :camera: |
 |         |  15:05-15:50 | 3.1 Mathematical Basics of LTI Systems II :camera: |
-| 25 June |  14:10-14:55 | 3.2 Exercise 2 :clipboard:|
+| 24 June |  14:10-14:55 | 3.2 Exercise 2 :clipboard:|
 |         |  15:05-15:50 | 3.3 Solutions to the Exercise :camera: |
-| 26 June |  14:10-14:55 | 4.1 Introduction to MOR 1 :camera: |
+| 25 June |  14:10-14:55 | 4.1 Introduction to MOR 1 :camera: |
 |         |  15:05-15:50 | 4.2 Introduction to MOR 2 :camera: |
-| 28 June |  08:00-08:45 | 5.1 Projection Based MOR :microphone: |
+| 27 June |  08:00-08:45 | 5.1 Projection Based MOR :microphone: |
 |         |  08:55-09:40 | 6.1 Mathematical Basics of Balanced Truncation :microphone: |
-| 29 June |  14:10-14:55 | 6.2 Exercise 3 :clipboard: |
+| 28 June |  14:10-14:55 | 6.2 Exercise 3 :clipboard: |
 |         |  15:05-15:50 | 6.3 Solutions to Exercise 3 :microphone: |
-| 30 June |  14:10-14:55 | 7.1 Balanced Truncation 1 :camera: |
+| 29 June |  14:10-14:55 | 7.1 Balanced Truncation 1 :camera: |
 |         |  15:05-15:50 | 7.2 (Practical) Exercise 4 :clipboard: |
-| 01 July |  14:10-14:55 | 7.3 Solutions to Exercise 4 :microphone: |
+| 30 June |  14:10-14:55 | 7.3 Solutions to Exercise 4 :microphone: |
 |         |  15:05-15:50 | 7.4 LQG-Balanced Truncation for incompressible Flows :camera: |
-| 02 July |  08:00-08:45 | 8.1 POD and DMD for Burgers' Equation :microphone: |
+| 01 July |  08:00-08:45 | 8.1 POD and DMD for Burgers' Equation :microphone: |
 |         |  08:55-09:40 | 8.2 Summary of the Lecture :microphone: |
 
 All times are Beijing time.
