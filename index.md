@@ -45,7 +45,7 @@ for control is very general.*
  * Controllability/Observability
  * Realizations
 
-Also check my whiteboard notes of the lecture [11](files/11-21.jpg) and [12](files/12-21.jpg)
+Also check my whiteboard notes of the lecture [:pencil: 11](files/11-21.jpg) and [:pencil: 12](files/12-21.jpg)
 
 ## 2 Mathematical Basics of LTI Systems 1
 
