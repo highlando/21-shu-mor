@@ -18,7 +18,7 @@
 |         |  15:05-15:50 | 6.3 Solutions to Exercise 3 :microphone: |
 | 30 June |  14:10-14:55 | 7.1 Balanced Truncation 1 :camera: |
 |         |  15:05-15:50 | 7.2 (Practical) Exercise 4 :clipboard: |
-| 91 July |  14:10-14:55 | 7.3 Solutions to Exercise 4 :microphone: |
+| 01 July |  14:10-14:55 | 7.3 Solutions to Exercise 4 :microphone: |
 |         |  15:05-15:50 | 7.4 LQG-Balanced Truncation for incompressible Flows :camera: |
 | 02 July |  08:00-08:45 | 8.1 POD and DMD for Burgers' Equation :microphone: |
 |         |  08:55-09:40 | 8.2 Summary of the Lecture :microphone: |
@@ -33,7 +33,6 @@ All times are Beijing time.
 
 :clipboard: [The script (might get updates in the course of the lecture)](shmorsc.pdf)
 
-<!--
 ## 1 Introduction to LTI Systems
 
 *I will start my short course by introducing the class of Linear Time Invariant
@@ -46,7 +45,7 @@ for control is very general.*
  * Controllability/Observability
  * Realizations
 
-[The lecture whiteboard](blackboards/11-lti-intro.png)
+Also check my whiteboard notes of the lecture [11](files/11-21.jpg) and [12](files/12-21.jpg)
 
 ## 2 Mathematical Basics of LTI Systems 1
 
@@ -54,7 +53,9 @@ for control is very general.*
 sheet on
   * Hautusz' criteria
   * Equivalence transformations
-2. Please download and solve the [1st exercise sheet](exi.pdf).
+2. Please download and solve the [1st exercise sheet](files/22-exi.pdf).
+
+<!--
 3. Screencast with the solutions.
 
 [The solutions whiteboard](blackboards/23-exi.png)
