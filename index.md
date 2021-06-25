@@ -10,10 +10,10 @@
 |         |  15:05-15:50 | 3.1 Mathematical Basics of LTI Systems II :camera: |
 | 24 June |  14:10-14:55 | 3.2 Exercise 2 :clipboard:|
 |         |  15:05-15:50 | 3.3 Solutions to the Exercise :camera: |
-| 25 June |  14:10-14:55 | 4.1 Introduction to MOR 1 :camera: |
-|         |  15:05-15:50 | 4.2 Introduction to MOR 2 :camera: |
-| 28 June |  08:00-08:45 | 5.1 Projection Based MOR :microphone: |
-|         |  08:55-09:40 | 6.1 Mathematical Basics of Balanced Truncation :microphone: |
+| 25 June |  08:00-08:45 | 4.1 Introduction to MOR 1 :camera: |
+|         |  08:55-09:40 | 4.2 Introduction to MOR 2 :camera: |
+| 28 June |  14:10-14:55 | 5.1 Projection Based MOR :microphone: |
+|         |  15:05-15:50 | 6.1 Mathematical Basics of Balanced Truncation :microphone: |
 | 29 June |  14:10-14:55 | 6.2 Exercise 3 :clipboard: |
 |         |  15:05-15:50 | 6.3 Solutions to Exercise 3 :microphone: |
 | 30 June |  14:10-14:55 | 7.1 Balanced Truncation 1 :camera: |
