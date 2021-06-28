@@ -55,7 +55,6 @@ sheet on
   * Equivalence transformations
 2. Please download and solve the [1st exercise sheet](files/22-exi.pdf).
 
-<!--
 3. Screencast with the solutions.
 
 [The solutions whiteboard](blackboards/23-exi.png)
@@ -91,9 +90,9 @@ reduction.*
 that uses projections and explain several ways to compute these projections.*
 
  * Projections and projectors
- * Projection and Interpolation
 
-[The lecture whiteboard](blackboards/512-projections-gramians.png)
+[The lecture whiteboard](blackboards/51-21.jpg)
+
  * MOR and projections
  * The Gramians
 
@@ -103,7 +102,9 @@ that uses projections and explain several ways to compute these projections.*
   * Gramians of LTI systems,
   * Transformations, Invariants, and
   * Balancing of the Gramians.
-2. Please download and solve the [3rd exercise sheet](exiii.pdf).
+2. Please download and solve the [3rd exercise sheet](files/62-exiii.pdf).
+
+<!--
 3. Live discussion of the solutions.
 
 [whiteboard of the exercise](blackboards/61-exiii-gramians.png)
