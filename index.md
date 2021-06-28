@@ -91,7 +91,7 @@ that uses projections and explain several ways to compute these projections.*
 
  * Projections and projectors
 
-[The lecture whiteboard](blackboards/51-21.jpg)
+[The lecture whiteboard](files/51-21.jpg)
 
  * MOR and projections
  * The Gramians
