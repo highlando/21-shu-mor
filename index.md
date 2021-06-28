@@ -57,7 +57,7 @@ sheet on
 
 3. Screencast with the solutions.
 
-[The solutions whiteboard](blackboards/23-exi.png)
+[The solutions whiteboard](files/23-exi.png)
 
 ## 3 Mathematical Basics of LTI Systems 2
 
@@ -68,10 +68,10 @@ sheet on
 2. Please download and solve the [2nd exercise sheet](exii.pdf).
 3. Screencast with the solutions.
 
-[The lecture whiteboard](blackboards/31-stability.png)
+[The lecture whiteboard](files/31-stability.png)
  * stability
 
-[The solutions whiteboard](blackboards/33-exii.png)
+[The solutions whiteboard](files/33-exii.png)
 
 ## 4 Introduction to Model Reduction
 
@@ -80,8 +80,8 @@ notions of model reduction in general and for LTI in particular. This lecture
 will provide some illustrative examples for the use and results of model
 reduction.*
 
-[The lecture whiteboard](blackboards/412-invariance-intro-mor.png)
- * Recap on *A-invariance*
+[The lecture whiteboard](files/41-wb-intro-mor.jpg)
+
  * Why model reduction?
 
 ## 5 Projection Based Model Reduction
@@ -102,7 +102,13 @@ that uses projections and explain several ways to compute these projections.*
   * Gramians of LTI systems,
   * Transformations, Invariants, and
   * Balancing of the Gramians.
+  * **Correction**: The formula for the Lyapunov equations was wrong
+    * It should read, e.g., `AP+PA'+BB'=0`
+    * It is corrected in the script
+    * Please [see the derivation](files/61-corrected-derivation.png) of the formula for `^P`
+
 2. Please download and solve the [3rd exercise sheet](files/62-exiii.pdf).
+
 
 <!--
 3. Live discussion of the solutions.
