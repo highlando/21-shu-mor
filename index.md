@@ -110,10 +110,9 @@ that uses projections and explain several ways to compute these projections.*
 2. Please download and solve the [3rd exercise sheet](files/62-exiii.pdf).
 
 
-<!--
 3. Live discussion of the solutions.
 
-[whiteboard of the exercise](blackboards/61-exiii-gramians.png)
+[whiteboard of the exercise discussion](files/63-21.jpg)
 
 
 ## 7 Balanced Truncation
@@ -121,14 +120,15 @@ that uses projections and explain several ways to compute these projections.*
 1. In lecture 7.1, we will learn about Balanced Truncation which is a powerful model
 reduction technique for stable LTI systems.
 
-[whiteboard on balanced truncation](blackboards/62-balanced-truncation.png)
+[whiteboard on balanced truncation](files/71-BT.jpg)
 
-2. Please download and solve the [4th exercise sheet](exiv.pdf).
+2. Please download and solve the [:pencil: 4th exercise sheet](files/72-exiv.pdf)
   * You can use `MATLAB` (if you don't have the *control systems toolbox*, use
     the routine files provided below)
   * or `octave` with `pkg install -forge control` and `pkg load control`.
   * Here are the [data and routine files](exiv-data.zip).
 
+<!--
 3. Live demonstration of the solutions to *Exercise 4* by the students or by the
    lecturer.
   * Solutions [1](bt-min.m) [2](bt-beam.m)
