@@ -109,7 +109,6 @@ that uses projections and explain several ways to compute these projections.*
 
 2. Please download and solve the [3rd exercise sheet](files/62-exiii.pdf).
 
-
 3. Live discussion of the solutions.
 
 [whiteboard of the exercise discussion](files/63-21.jpg)
@@ -128,15 +127,14 @@ reduction technique for stable LTI systems.
   * or `octave` with `pkg install -forge control` and `pkg load control`.
   * Here are the [data and routine files](files/72-exiv-data.zip).
 
-<!--
 3. Live demonstration of the solutions to *Exercise 4* by the students or by the
    lecturer.
-  * Solutions [1](bt-min.m) [2](bt-beam.m)
+  * Solutions [1](files/btmin.m) [2](files/btbeam.m)
+  * [whiteboard](files/73-21-pract-exercise.jpg)
 
 4. Lecture of LQG-BT which combines controller design and model reduction by
    Balanced Truncation and its application to flow control.
 
-[whiteboard](blackboards/712-pract-ex-daes.png)
 
 ## 8 Outlook and Summary
 
@@ -144,6 +142,7 @@ In the last lecture, I will showcase how the methods of *Proper Orthogonal
 Decomposition* (POD) and *Dynamical Mode Decomposition* (DMD) work for the 2D
 *Burgers equation*. [see my blog post](https://www.janheiland.de/post/fenics-burger-pod-dmd/).
 
+<!--
 ### POD for Burgers
 
 [Whiteboard with the POD](blackboards/81-pod.png)
@@ -153,13 +152,13 @@ Decomposition* (POD) and *Dynamical Mode Decomposition* (DMD) work for the 2D
 Finally, we will wrap up the contents of the course.
 
 [Whiteboard of the Summary](blackboards/82-wrapup.png)
+-->
 
 ### Studying abroad (maybe a Master in Magdeburg)
 
 * [page with links to the Master programmes in English](https://www.ovgu.de/unimagdeburg/en/Study/Study+Programmes/Study+Programmes+in+English-p-48822.html)
 * [Whiteboard with the notes](blackboards/83-study-abroad.png)
 
--->
 
 # Little Chinese Dictionary
 
